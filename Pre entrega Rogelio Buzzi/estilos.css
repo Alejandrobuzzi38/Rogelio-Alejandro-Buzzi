@@ -1,0 +1,7 @@
+.efecto{
+    transition: border 0.3s;
+}
+
+.efecto:hover{
+border: 1px solid #000;
+}
